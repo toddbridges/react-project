@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="Grocery List"/>
+      <Header title="Groceeery List"/>
       <Content 
         items={items}
         handleCheck={handleCheck}
